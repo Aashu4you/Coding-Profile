@@ -6,6 +6,7 @@ Coding Problems from Leetcode and GFG
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0015-3sum) |
 | [0054-spiral-matrix](https://github.com/Aashu4you/Coding-Profile/tree/master/0054-spiral-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aashu4you/Coding-Profile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Aashu4you/Coding-Profile/tree/master/0283-move-zeroes) |
@@ -20,10 +21,15 @@ Coding Problems from Leetcode and GFG
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aashu4you/Coding-Profile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Aashu4you/Coding-Profile/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aashu4you/Coding-Profile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
