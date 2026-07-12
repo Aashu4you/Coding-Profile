@@ -8,6 +8,7 @@ Coding Problems from Leetcode and GFG
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aashu4you/Coding-Profile/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/Aashu4you/Coding-Profile/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Aashu4you/Coding-Profile/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/Aashu4you/Coding-Profile/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Aashu4you/Coding-Profile/tree/master/0075-sort-colors) |
@@ -48,6 +49,7 @@ Coding Problems from Leetcode and GFG
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Aashu4you/Coding-Profile/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aashu4you/Coding-Profile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Aashu4you/Coding-Profile/tree/master/0713-subarray-product-less-than-k) |
