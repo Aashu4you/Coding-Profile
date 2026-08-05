@@ -76,6 +76,7 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aashu4you/Coding-Profile/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0094-binary-tree-inorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0227-basic-calculator-ii) |
 ## Monotonic Stack
 |  |
@@ -132,4 +133,16 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Aashu4you/Coding-Profile/tree/master/0876-middle-of-the-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
