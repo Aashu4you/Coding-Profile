@@ -120,6 +120,7 @@ Coding Problems from Leetcode and GFG
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Aashu4you/Coding-Profile/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0227-basic-calculator-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0523-continuous-subarray-sum) |
@@ -149,4 +150,8 @@ Coding Problems from Leetcode and GFG
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0144-binary-tree-preorder-traversal) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Aashu4you/Coding-Profile/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
