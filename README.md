@@ -48,6 +48,7 @@ Coding Problems from Leetcode and GFG
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aashu4you/Coding-Profile/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Aashu4you/Coding-Profile/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Aashu4you/Coding-Profile/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Aashu4you/Coding-Profile/tree/master/0125-valid-palindrome) |
@@ -141,6 +142,7 @@ Coding Problems from Leetcode and GFG
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Aashu4you/Coding-Profile/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0344-reverse-string) |
@@ -182,4 +184,20 @@ Coding Problems from Leetcode and GFG
 | ------- |
 | [0137-single-number-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0137-single-number-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aashu4you/Coding-Profile/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
