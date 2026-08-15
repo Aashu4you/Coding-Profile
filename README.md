@@ -34,6 +34,7 @@ Coding Problems from Leetcode and GFG
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Aashu4you/Coding-Profile/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aashu4you/Coding-Profile/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aashu4you/Coding-Profile/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aashu4you/Coding-Profile/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Matrix
 |  |
 | ------- |
@@ -180,4 +181,5 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0137-single-number-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aashu4you/Coding-Profile/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
