@@ -33,6 +33,7 @@ Coding Problems from Leetcode and GFG
 | [0992-subarrays-with-k-different-integers](https://github.com/Aashu4you/Coding-Profile/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aashu4you/Coding-Profile/tree/master/1004-max-consecutive-ones-iii) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Aashu4you/Coding-Profile/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2029-stone-game-ix](https://github.com/Aashu4you/Coding-Profile/tree/master/2029-stone-game-ix) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aashu4you/Coding-Profile/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aashu4you/Coding-Profile/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aashu4you/Coding-Profile/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -79,6 +80,7 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aashu4you/Coding-Profile/tree/master/0011-container-with-most-water) |
+| [2029-stone-game-ix](https://github.com/Aashu4you/Coding-Profile/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -136,6 +138,7 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aashu4you/Coding-Profile/tree/master/0992-subarrays-with-k-different-integers) |
+| [2029-stone-game-ix](https://github.com/Aashu4you/Coding-Profile/tree/master/2029-stone-game-ix) |
 ## Math
 |  |
 | ------- |
@@ -143,6 +146,7 @@ Coding Problems from Leetcode and GFG
 | [0189-rotate-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0227-basic-calculator-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0523-continuous-subarray-sum) |
+| [2029-stone-game-ix](https://github.com/Aashu4you/Coding-Profile/tree/master/2029-stone-game-ix) |
 ## String
 |  |
 | ------- |
@@ -216,4 +220,20 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0215-kth-largest-element-in-an-array) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Aashu4you/Coding-Profile/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Aashu4you/Coding-Profile/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Aashu4you/Coding-Profile/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Aashu4you/Coding-Profile/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
