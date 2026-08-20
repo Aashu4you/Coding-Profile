@@ -13,6 +13,7 @@ Coding Problems from Leetcode and GFG
 | [0054-spiral-matrix](https://github.com/Aashu4you/Coding-Profile/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Aashu4you/Coding-Profile/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Aashu4you/Coding-Profile/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Aashu4you/Coding-Profile/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Aashu4you/Coding-Profile/tree/master/0162-find-peak-element) |
@@ -63,6 +64,7 @@ Coding Problems from Leetcode and GFG
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Aashu4you/Coding-Profile/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Aashu4you/Coding-Profile/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aashu4you/Coding-Profile/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aashu4you/Coding-Profile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0189-rotate-array) |
@@ -88,6 +90,7 @@ Coding Problems from Leetcode and GFG
 | ------- |
 | [0015-3sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Aashu4you/Coding-Profile/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Aashu4you/Coding-Profile/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0350-intersection-of-two-arrays-ii) |
