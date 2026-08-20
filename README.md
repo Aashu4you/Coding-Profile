@@ -26,6 +26,7 @@ Coding Problems from Leetcode and GFG
 | [0283-move-zeroes](https://github.com/Aashu4you/Coding-Profile/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Aashu4you/Coding-Profile/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/Aashu4you/Coding-Profile/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Aashu4you/Coding-Profile/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Aashu4you/Coding-Profile/tree/master/0560-subarray-sum-equals-k) |
@@ -95,6 +96,7 @@ Coding Problems from Leetcode and GFG
 | [0349-intersection-of-two-arrays](https://github.com/Aashu4you/Coding-Profile/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Aashu4you/Coding-Profile/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/Aashu4you/Coding-Profile/tree/master/0414-third-maximum-number) |
 ## Greedy
 |  |
 | ------- |
