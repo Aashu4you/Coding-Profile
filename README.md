@@ -48,6 +48,7 @@ Coding Problems from Leetcode and GFG
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aashu4you/Coding-Profile/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aashu4you/Coding-Profile/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aashu4you/Coding-Profile/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aashu4you/Coding-Profile/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aashu4you/Coding-Profile/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aashu4you/Coding-Profile/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Matrix
@@ -90,6 +91,7 @@ Coding Problems from Leetcode and GFG
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aashu4you/Coding-Profile/tree/master/1004-max-consecutive-ones-iii) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aashu4you/Coding-Profile/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Sorting
 |  |
 | ------- |
@@ -185,6 +187,7 @@ Coding Problems from Leetcode and GFG
 | [0523-continuous-subarray-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0523-continuous-subarray-sum) |
 | [1563-stone-game-v](https://github.com/Aashu4you/Coding-Profile/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Aashu4you/Coding-Profile/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aashu4you/Coding-Profile/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## String
 |  |
 | ------- |
@@ -234,6 +237,7 @@ Coding Problems from Leetcode and GFG
 | [0137-single-number-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0137-single-number-ii) |
 | [0389-find-the-difference](https://github.com/Aashu4you/Coding-Profile/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/Aashu4you/Coding-Profile/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aashu4you/Coding-Profile/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aashu4you/Coding-Profile/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## String Matching
 |  |
@@ -296,4 +300,12 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0852-peak-index-in-a-mountain-array) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aashu4you/Coding-Profile/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aashu4you/Coding-Profile/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
