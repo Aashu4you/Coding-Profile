@@ -85,6 +85,7 @@ Coding Problems from Leetcode and GFG
 | [0162-find-peak-element](https://github.com/Aashu4you/Coding-Profile/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aashu4you/Coding-Profile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/Aashu4you/Coding-Profile/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Aashu4you/Coding-Profile/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/Aashu4you/Coding-Profile/tree/master/0713-subarray-product-less-than-k) |
@@ -308,4 +309,8 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aashu4you/Coding-Profile/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Aashu4you/Coding-Profile/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
