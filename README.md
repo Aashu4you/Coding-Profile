@@ -88,6 +88,7 @@ Coding Problems from Leetcode and GFG
 | [0278-first-bad-version](https://github.com/Aashu4you/Coding-Profile/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Aashu4you/Coding-Profile/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/Aashu4you/Coding-Profile/tree/master/0374-guess-number-higher-or-lower) |
 | [0713-subarray-product-less-than-k](https://github.com/Aashu4you/Coding-Profile/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -313,4 +314,5 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Aashu4you/Coding-Profile/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Aashu4you/Coding-Profile/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
