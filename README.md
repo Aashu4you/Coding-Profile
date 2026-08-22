@@ -78,6 +78,7 @@ Coding Problems from Leetcode and GFG
 | [0345-reverse-vowels-of-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Aashu4you/Coding-Profile/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Aashu4you/Coding-Profile/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Aashu4you/Coding-Profile/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Aashu4you/Coding-Profile/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search
@@ -121,6 +122,7 @@ Coding Problems from Leetcode and GFG
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aashu4you/Coding-Profile/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/Aashu4you/Coding-Profile/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/Aashu4you/Coding-Profile/tree/master/0392-is-subsequence) |
 | [1563-stone-game-v](https://github.com/Aashu4you/Coding-Profile/tree/master/1563-stone-game-v) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Aashu4you/Coding-Profile/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Stack
@@ -212,6 +214,7 @@ Coding Problems from Leetcode and GFG
 | [0345-reverse-vowels-of-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Aashu4you/Coding-Profile/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Aashu4you/Coding-Profile/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Aashu4you/Coding-Profile/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aashu4you/Coding-Profile/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aashu4you/Coding-Profile/tree/master/3090-maximum-length-substring-with-two-occurrences) |
