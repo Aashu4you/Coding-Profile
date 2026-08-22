@@ -140,6 +140,7 @@ Coding Problems from Leetcode and GFG
 | [0219-contains-duplicate-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Aashu4you/Coding-Profile/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Aashu4you/Coding-Profile/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Aashu4you/Coding-Profile/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0523-continuous-subarray-sum) |
@@ -180,6 +181,7 @@ Coding Problems from Leetcode and GFG
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Aashu4you/Coding-Profile/tree/master/0383-ransom-note) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aashu4you/Coding-Profile/tree/master/0992-subarrays-with-k-different-integers) |
 | [2029-stone-game-ix](https://github.com/Aashu4you/Coding-Profile/tree/master/2029-stone-game-ix) |
 ## Math
@@ -206,6 +208,7 @@ Coding Problems from Leetcode and GFG
 | [0205-isomorphic-strings](https://github.com/Aashu4you/Coding-Profile/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Aashu4you/Coding-Profile/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Aashu4you/Coding-Profile/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aashu4you/Coding-Profile/tree/master/2213-longest-substring-of-one-repeating-character) |
