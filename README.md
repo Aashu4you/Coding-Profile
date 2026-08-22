@@ -75,6 +75,7 @@ Coding Problems from Leetcode and GFG
 | [0189-rotate-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aashu4you/Coding-Profile/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Aashu4you/Coding-Profile/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Aashu4you/Coding-Profile/tree/master/0455-assign-cookies) |
@@ -208,6 +209,7 @@ Coding Problems from Leetcode and GFG
 | [0205-isomorphic-strings](https://github.com/Aashu4you/Coding-Profile/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Aashu4you/Coding-Profile/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Aashu4you/Coding-Profile/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0438-find-all-anagrams-in-a-string) |
