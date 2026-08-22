@@ -187,6 +187,7 @@ Coding Problems from Leetcode and GFG
 | ------- |
 | [0050-powx-n](https://github.com/Aashu4you/Coding-Profile/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Aashu4you/Coding-Profile/tree/master/0066-plus-one) |
+| [0168-excel-sheet-column-title](https://github.com/Aashu4you/Coding-Profile/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0227-basic-calculator-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0523-continuous-subarray-sum) |
@@ -199,6 +200,7 @@ Coding Problems from Leetcode and GFG
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Aashu4you/Coding-Profile/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/Aashu4you/Coding-Profile/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Aashu4you/Coding-Profile/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0344-reverse-string) |
