@@ -60,6 +60,7 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aashu4you/Coding-Profile/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Aashu4you/Coding-Profile/tree/master/0258-add-digits) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aashu4you/Coding-Profile/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
@@ -199,6 +200,7 @@ Coding Problems from Leetcode and GFG
 | [0189-rotate-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Aashu4you/Coding-Profile/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0227-basic-calculator-ii) |
+| [0258-add-digits](https://github.com/Aashu4you/Coding-Profile/tree/master/0258-add-digits) |
 | [0523-continuous-subarray-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0523-continuous-subarray-sum) |
 | [1563-stone-game-v](https://github.com/Aashu4you/Coding-Profile/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Aashu4you/Coding-Profile/tree/master/2029-stone-game-ix) |
@@ -329,6 +331,7 @@ Coding Problems from Leetcode and GFG
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Aashu4you/Coding-Profile/tree/master/0258-add-digits) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aashu4you/Coding-Profile/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Interactive
 |  |
