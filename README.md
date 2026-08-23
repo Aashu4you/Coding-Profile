@@ -73,6 +73,7 @@ Coding Problems from Leetcode and GFG
 | [0125-valid-palindrome](https://github.com/Aashu4you/Coding-Profile/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aashu4you/Coding-Profile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Aashu4you/Coding-Profile/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Aashu4you/Coding-Profile/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0345-reverse-vowels-of-a-string) |
@@ -139,6 +140,7 @@ Coding Problems from Leetcode and GFG
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Aashu4you/Coding-Profile/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Aashu4you/Coding-Profile/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Aashu4you/Coding-Profile/tree/master/0349-intersection-of-two-arrays) |
@@ -195,6 +197,7 @@ Coding Problems from Leetcode and GFG
 | [0168-excel-sheet-column-title](https://github.com/Aashu4you/Coding-Profile/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Aashu4you/Coding-Profile/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Aashu4you/Coding-Profile/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0227-basic-calculator-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0523-continuous-subarray-sum) |
 | [1563-stone-game-v](https://github.com/Aashu4you/Coding-Profile/tree/master/1563-stone-game-v) |
@@ -332,4 +335,8 @@ Coding Problems from Leetcode and GFG
 | ------- |
 | [0278-first-bad-version](https://github.com/Aashu4you/Coding-Profile/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Aashu4you/Coding-Profile/tree/master/0374-guess-number-higher-or-lower) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Aashu4you/Coding-Profile/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
