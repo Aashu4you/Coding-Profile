@@ -208,6 +208,7 @@ Coding Problems from Leetcode and GFG
 | [0263-ugly-number](https://github.com/Aashu4you/Coding-Profile/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Aashu4you/Coding-Profile/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Aashu4you/Coding-Profile/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Aashu4you/Coding-Profile/tree/master/0342-power-of-four) |
 | [0523-continuous-subarray-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0523-continuous-subarray-sum) |
 | [1563-stone-game-v](https://github.com/Aashu4you/Coding-Profile/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Aashu4you/Coding-Profile/tree/master/1872-stone-game-viii) |
@@ -260,6 +261,7 @@ Coding Problems from Leetcode and GFG
 | [0206-reverse-linked-list](https://github.com/Aashu4you/Coding-Profile/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Aashu4you/Coding-Profile/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Aashu4you/Coding-Profile/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Aashu4you/Coding-Profile/tree/master/0342-power-of-four) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -269,6 +271,7 @@ Coding Problems from Leetcode and GFG
 | ------- |
 | [0137-single-number-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Aashu4you/Coding-Profile/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Aashu4you/Coding-Profile/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Aashu4you/Coding-Profile/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Aashu4you/Coding-Profile/tree/master/0645-set-mismatch) |
 | [1386-cinema-seat-allocation](https://github.com/Aashu4you/Coding-Profile/tree/master/1386-cinema-seat-allocation) |
