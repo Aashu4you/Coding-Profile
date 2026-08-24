@@ -161,6 +161,7 @@ Coding Problems from Leetcode and GFG
 | [0992-subarrays-with-k-different-integers](https://github.com/Aashu4you/Coding-Profile/tree/master/0992-subarrays-with-k-different-integers) |
 | [1386-cinema-seat-allocation](https://github.com/Aashu4you/Coding-Profile/tree/master/1386-cinema-seat-allocation) |
 | [1748-sum-of-unique-elements](https://github.com/Aashu4you/Coding-Profile/tree/master/1748-sum-of-unique-elements) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Aashu4you/Coding-Profile/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aashu4you/Coding-Profile/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aashu4you/Coding-Profile/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aashu4you/Coding-Profile/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -236,6 +237,7 @@ Coding Problems from Leetcode and GFG
 | [0392-is-subsequence](https://github.com/Aashu4you/Coding-Profile/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Aashu4you/Coding-Profile/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Aashu4you/Coding-Profile/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aashu4you/Coding-Profile/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aashu4you/Coding-Profile/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Linked List
