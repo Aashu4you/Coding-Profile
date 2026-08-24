@@ -29,6 +29,7 @@ Coding Problems from Leetcode and GFG
 | [0414-third-maximum-number](https://github.com/Aashu4you/Coding-Profile/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Aashu4you/Coding-Profile/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Aashu4you/Coding-Profile/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/Aashu4you/Coding-Profile/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Aashu4you/Coding-Profile/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Aashu4you/Coding-Profile/tree/master/0643-maximum-average-subarray-i) |
@@ -114,6 +115,7 @@ Coding Problems from Leetcode and GFG
 | [0389-find-the-difference](https://github.com/Aashu4you/Coding-Profile/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Aashu4you/Coding-Profile/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Aashu4you/Coding-Profile/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/Aashu4you/Coding-Profile/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/Aashu4you/Coding-Profile/tree/master/0645-set-mismatch) |
 ## Greedy
 |  |
@@ -314,6 +316,7 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0215-kth-largest-element-in-an-array) |
+| [0506-relative-ranks](https://github.com/Aashu4you/Coding-Profile/tree/master/0506-relative-ranks) |
 ## Quickselect
 |  |
 | ------- |
