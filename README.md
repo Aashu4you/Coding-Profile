@@ -205,6 +205,7 @@ Coding Problems from Leetcode and GFG
 | [0227-basic-calculator-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Aashu4you/Coding-Profile/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Aashu4you/Coding-Profile/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Aashu4you/Coding-Profile/tree/master/0263-ugly-number) |
 | [0523-continuous-subarray-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0523-continuous-subarray-sum) |
 | [1563-stone-game-v](https://github.com/Aashu4you/Coding-Profile/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Aashu4you/Coding-Profile/tree/master/1872-stone-game-viii) |
