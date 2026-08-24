@@ -207,6 +207,7 @@ Coding Problems from Leetcode and GFG
 | [0258-add-digits](https://github.com/Aashu4you/Coding-Profile/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Aashu4you/Coding-Profile/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Aashu4you/Coding-Profile/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/Aashu4you/Coding-Profile/tree/master/0326-power-of-three) |
 | [0523-continuous-subarray-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0523-continuous-subarray-sum) |
 | [1563-stone-game-v](https://github.com/Aashu4you/Coding-Profile/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Aashu4you/Coding-Profile/tree/master/1872-stone-game-viii) |
@@ -258,6 +259,7 @@ Coding Problems from Leetcode and GFG
 | [0050-powx-n](https://github.com/Aashu4you/Coding-Profile/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Aashu4you/Coding-Profile/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Aashu4you/Coding-Profile/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Aashu4you/Coding-Profile/tree/master/0326-power-of-three) |
 ## Breadth-First Search
 |  |
 | ------- |
