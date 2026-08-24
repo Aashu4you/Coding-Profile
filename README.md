@@ -206,6 +206,7 @@ Coding Problems from Leetcode and GFG
 | [0231-power-of-two](https://github.com/Aashu4you/Coding-Profile/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Aashu4you/Coding-Profile/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Aashu4you/Coding-Profile/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/Aashu4you/Coding-Profile/tree/master/0292-nim-game) |
 | [0523-continuous-subarray-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0523-continuous-subarray-sum) |
 | [1563-stone-game-v](https://github.com/Aashu4you/Coding-Profile/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Aashu4you/Coding-Profile/tree/master/1872-stone-game-viii) |
@@ -302,17 +303,20 @@ Coding Problems from Leetcode and GFG
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Aashu4you/Coding-Profile/tree/master/0292-nim-game) |
 | [1872-stone-game-viii](https://github.com/Aashu4you/Coding-Profile/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Aashu4you/Coding-Profile/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Aashu4you/Coding-Profile/tree/master/0292-nim-game) |
 | [1563-stone-game-v](https://github.com/Aashu4you/Coding-Profile/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Aashu4you/Coding-Profile/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Aashu4you/Coding-Profile/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Aashu4you/Coding-Profile/tree/master/0292-nim-game) |
 | [2029-stone-game-ix](https://github.com/Aashu4you/Coding-Profile/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -353,4 +357,12 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Aashu4you/Coding-Profile/tree/master/0202-happy-number) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Aashu4you/Coding-Profile/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Aashu4you/Coding-Profile/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
