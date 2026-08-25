@@ -226,6 +226,7 @@ Coding Problems from Leetcode and GFG
 | [1563-stone-game-v](https://github.com/Aashu4you/Coding-Profile/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Aashu4you/Coding-Profile/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Aashu4you/Coding-Profile/tree/master/2029-stone-game-ix) |
+| [2413-smallest-even-multiple](https://github.com/Aashu4you/Coding-Profile/tree/master/2413-smallest-even-multiple) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Aashu4you/Coding-Profile/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aashu4you/Coding-Profile/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aashu4you/Coding-Profile/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -370,6 +371,7 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Aashu4you/Coding-Profile/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/Aashu4you/Coding-Profile/tree/master/2413-smallest-even-multiple) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aashu4you/Coding-Profile/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Interactive
 |  |
