@@ -230,6 +230,7 @@ Coding Problems from Leetcode and GFG
 | [2729-check-if-the-number-is-fascinating](https://github.com/Aashu4you/Coding-Profile/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aashu4you/Coding-Profile/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aashu4you/Coding-Profile/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3908-valid-digit-number](https://github.com/Aashu4you/Coding-Profile/tree/master/3908-valid-digit-number) |
 ## String
 |  |
 | ------- |
