@@ -228,6 +228,7 @@ Coding Problems from Leetcode and GFG
 | [0342-power-of-four](https://github.com/Aashu4you/Coding-Profile/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/Aashu4you/Coding-Profile/tree/master/0412-fizz-buzz) |
 | [0523-continuous-subarray-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0523-continuous-subarray-sum) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Aashu4you/Coding-Profile/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1563-stone-game-v](https://github.com/Aashu4you/Coding-Profile/tree/master/1563-stone-game-v) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Aashu4you/Coding-Profile/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1872-stone-game-viii](https://github.com/Aashu4you/Coding-Profile/tree/master/1872-stone-game-viii) |
@@ -253,6 +254,7 @@ Coding Problems from Leetcode and GFG
 | [0392-is-subsequence](https://github.com/Aashu4you/Coding-Profile/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Aashu4you/Coding-Profile/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Aashu4you/Coding-Profile/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Aashu4you/Coding-Profile/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aashu4you/Coding-Profile/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Aashu4you/Coding-Profile/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -398,4 +400,12 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Aashu4you/Coding-Profile/tree/master/0292-nim-game) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Aashu4you/Coding-Profile/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/Aashu4you/Coding-Profile/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
