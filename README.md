@@ -36,6 +36,7 @@ Coding Problems from Leetcode and GFG
 | [0645-set-mismatch](https://github.com/Aashu4you/Coding-Profile/tree/master/0645-set-mismatch) |
 | [0665-non-decreasing-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0665-non-decreasing-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Aashu4you/Coding-Profile/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Aashu4you/Coding-Profile/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/Aashu4you/Coding-Profile/tree/master/0904-fruit-into-baskets) |
@@ -194,6 +195,7 @@ Coding Problems from Leetcode and GFG
 | [0523-continuous-subarray-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Aashu4you/Coding-Profile/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Aashu4you/Coding-Profile/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Aashu4you/Coding-Profile/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aashu4you/Coding-Profile/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aashu4you/Coding-Profile/tree/master/1004-max-consecutive-ones-iii) |
 | [1872-stone-game-viii](https://github.com/Aashu4you/Coding-Profile/tree/master/1872-stone-game-viii) |
