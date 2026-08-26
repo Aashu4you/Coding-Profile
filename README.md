@@ -56,6 +56,7 @@ Coding Problems from Leetcode and GFG
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aashu4you/Coding-Profile/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aashu4you/Coding-Profile/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aashu4you/Coding-Profile/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3024-type-of-triangle](https://github.com/Aashu4you/Coding-Profile/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aashu4you/Coding-Profile/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aashu4you/Coding-Profile/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aashu4you/Coding-Profile/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -124,6 +125,7 @@ Coding Problems from Leetcode and GFG
 | [0455-assign-cookies](https://github.com/Aashu4you/Coding-Profile/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Aashu4you/Coding-Profile/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/Aashu4you/Coding-Profile/tree/master/0645-set-mismatch) |
+| [3024-type-of-triangle](https://github.com/Aashu4you/Coding-Profile/tree/master/3024-type-of-triangle) |
 ## Greedy
 |  |
 | ------- |
@@ -242,6 +244,7 @@ Coding Problems from Leetcode and GFG
 | [2413-smallest-even-multiple](https://github.com/Aashu4you/Coding-Profile/tree/master/2413-smallest-even-multiple) |
 | [2652-sum-multiples](https://github.com/Aashu4you/Coding-Profile/tree/master/2652-sum-multiples) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Aashu4you/Coding-Profile/tree/master/2729-check-if-the-number-is-fascinating) |
+| [3024-type-of-triangle](https://github.com/Aashu4you/Coding-Profile/tree/master/3024-type-of-triangle) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aashu4you/Coding-Profile/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aashu4you/Coding-Profile/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3908-valid-digit-number](https://github.com/Aashu4you/Coding-Profile/tree/master/3908-valid-digit-number) |
@@ -420,4 +423,8 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Aashu4you/Coding-Profile/tree/master/0334-increasing-triplet-subsequence) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/Aashu4you/Coding-Profile/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
