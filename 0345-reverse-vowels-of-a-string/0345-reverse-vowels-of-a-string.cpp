@@ -6,21 +6,19 @@ public:
                ch == 'A' || ch == 'E' || ch == 'I' ||
                ch == 'O' || ch == 'U';
     }
-
     string reverseVowels(string s) {
-        int n = s.size();
-        int left = 0 , right = n-1;
-        while(left<right){
-            while(left<right && !isVowel(s[left])){
-                left++;
-            }
-            while(left<right && !isVowel(s[right])){
-                right--;
-            }
-            swap(s[left],s[right]);
-            left++;
-            right--;
+       int l = 0 , r = s.size()-1;
+       while(l<r){
+        while(l<r && !isVowel(s[l])){
+            l++;
         }
-        return s;
+        while(l<r && !isVowel(s[r])){
+            r--;
+        }
+        swap(s[l],s[r]);
+        l++;
+        r--;
+       }
+       return s;
     }
 };
