@@ -247,6 +247,7 @@ Coding Problems from Leetcode and GFG
 | [2413-smallest-even-multiple](https://github.com/Aashu4you/Coding-Profile/tree/master/2413-smallest-even-multiple) |
 | [2652-sum-multiples](https://github.com/Aashu4you/Coding-Profile/tree/master/2652-sum-multiples) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Aashu4you/Coding-Profile/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2806-account-balance-after-rounded-purchase](https://github.com/Aashu4you/Coding-Profile/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3024-type-of-triangle](https://github.com/Aashu4you/Coding-Profile/tree/master/3024-type-of-triangle) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aashu4you/Coding-Profile/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aashu4you/Coding-Profile/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
