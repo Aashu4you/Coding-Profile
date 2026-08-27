@@ -6,6 +6,7 @@ Coding Problems from Leetcode and GFG
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Aashu4you/Coding-Profile/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Aashu4you/Coding-Profile/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Aashu4you/Coding-Profile/tree/master/0035-search-insert-position) |
@@ -100,6 +101,7 @@ Coding Problems from Leetcode and GFG
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Aashu4you/Coding-Profile/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Aashu4you/Coding-Profile/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Aashu4you/Coding-Profile/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aashu4you/Coding-Profile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -346,6 +348,7 @@ Coding Problems from Leetcode and GFG
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Aashu4you/Coding-Profile/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
