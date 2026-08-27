@@ -53,6 +53,7 @@ Coding Problems from Leetcode and GFG
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Aashu4you/Coding-Profile/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1872-stone-game-viii](https://github.com/Aashu4you/Coding-Profile/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Aashu4you/Coding-Profile/tree/master/2029-stone-game-ix) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Aashu4you/Coding-Profile/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aashu4you/Coding-Profile/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aashu4you/Coding-Profile/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aashu4you/Coding-Profile/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -72,6 +73,7 @@ Coding Problems from Leetcode and GFG
 | [0054-spiral-matrix](https://github.com/Aashu4you/Coding-Profile/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Aashu4you/Coding-Profile/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Aashu4you/Coding-Profile/tree/master/0412-fizz-buzz) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Aashu4you/Coding-Profile/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aashu4you/Coding-Profile/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Two Pointers
 |  |
@@ -125,6 +127,7 @@ Coding Problems from Leetcode and GFG
 | [0455-assign-cookies](https://github.com/Aashu4you/Coding-Profile/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Aashu4you/Coding-Profile/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/Aashu4you/Coding-Profile/tree/master/0645-set-mismatch) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Aashu4you/Coding-Profile/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3024-type-of-triangle](https://github.com/Aashu4you/Coding-Profile/tree/master/3024-type-of-triangle) |
 ## Greedy
 |  |
@@ -177,6 +180,7 @@ Coding Problems from Leetcode and GFG
 | [1748-sum-of-unique-elements](https://github.com/Aashu4you/Coding-Profile/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aashu4you/Coding-Profile/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Aashu4you/Coding-Profile/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/Aashu4you/Coding-Profile/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aashu4you/Coding-Profile/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Aashu4you/Coding-Profile/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aashu4you/Coding-Profile/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
