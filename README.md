@@ -135,6 +135,7 @@ Coding Problems from Leetcode and GFG
 | [0605-can-place-flowers](https://github.com/Aashu4you/Coding-Profile/tree/master/0605-can-place-flowers) |
 | [1386-cinema-seat-allocation](https://github.com/Aashu4you/Coding-Profile/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Aashu4you/Coding-Profile/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -182,6 +183,7 @@ Coding Problems from Leetcode and GFG
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aashu4you/Coding-Profile/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aashu4you/Coding-Profile/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aashu4you/Coding-Profile/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -218,6 +220,7 @@ Coding Problems from Leetcode and GFG
 | [1748-sum-of-unique-elements](https://github.com/Aashu4you/Coding-Profile/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Aashu4you/Coding-Profile/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2029-stone-game-ix](https://github.com/Aashu4you/Coding-Profile/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Math
 |  |
 | ------- |
@@ -271,6 +274,7 @@ Coding Problems from Leetcode and GFG
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aashu4you/Coding-Profile/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Aashu4you/Coding-Profile/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aashu4you/Coding-Profile/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Linked List
 |  |
 | ------- |
@@ -427,4 +431,8 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/Aashu4you/Coding-Profile/tree/master/3024-type-of-triangle) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
