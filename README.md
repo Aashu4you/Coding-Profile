@@ -42,6 +42,7 @@ Coding Problems from Leetcode and GFG
 | [0724-find-pivot-index](https://github.com/Aashu4you/Coding-Profile/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Aashu4you/Coding-Profile/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0832-flipping-an-image](https://github.com/Aashu4you/Coding-Profile/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/Aashu4you/Coding-Profile/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aashu4you/Coding-Profile/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -70,12 +71,14 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aashu4you/Coding-Profile/tree/master/0054-spiral-matrix) |
+| [0832-flipping-an-image](https://github.com/Aashu4you/Coding-Profile/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aashu4you/Coding-Profile/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Aashu4you/Coding-Profile/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Aashu4you/Coding-Profile/tree/master/0412-fizz-buzz) |
+| [0832-flipping-an-image](https://github.com/Aashu4you/Coding-Profile/tree/master/0832-flipping-an-image) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Aashu4you/Coding-Profile/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aashu4you/Coding-Profile/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Aashu4you/Coding-Profile/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -100,6 +103,7 @@ Coding Problems from Leetcode and GFG
 | [0392-is-subsequence](https://github.com/Aashu4you/Coding-Profile/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Aashu4you/Coding-Profile/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aashu4you/Coding-Profile/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0832-flipping-an-image](https://github.com/Aashu4you/Coding-Profile/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Aashu4you/Coding-Profile/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Aashu4you/Coding-Profile/tree/master/1768-merge-strings-alternately) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -341,6 +345,7 @@ Coding Problems from Leetcode and GFG
 | [0342-power-of-four](https://github.com/Aashu4you/Coding-Profile/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Aashu4you/Coding-Profile/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Aashu4you/Coding-Profile/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/Aashu4you/Coding-Profile/tree/master/0832-flipping-an-image) |
 | [1386-cinema-seat-allocation](https://github.com/Aashu4you/Coding-Profile/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aashu4you/Coding-Profile/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aashu4you/Coding-Profile/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
