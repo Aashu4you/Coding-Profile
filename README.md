@@ -72,6 +72,7 @@ Coding Problems from Leetcode and GFG
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aashu4you/Coding-Profile/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aashu4you/Coding-Profile/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aashu4you/Coding-Profile/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3866-first-unique-even-element](https://github.com/Aashu4you/Coding-Profile/tree/master/3866-first-unique-even-element) |
 ## Matrix
 |  |
 | ------- |
@@ -214,6 +215,7 @@ Coding Problems from Leetcode and GFG
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aashu4you/Coding-Profile/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aashu4you/Coding-Profile/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3866-first-unique-even-element](https://github.com/Aashu4you/Coding-Profile/tree/master/3866-first-unique-even-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -253,6 +255,7 @@ Coding Problems from Leetcode and GFG
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Aashu4you/Coding-Profile/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2404-most-frequent-even-element](https://github.com/Aashu4you/Coding-Profile/tree/master/2404-most-frequent-even-element) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3866-first-unique-even-element](https://github.com/Aashu4you/Coding-Profile/tree/master/3866-first-unique-even-element) |
 ## Math
 |  |
 | ------- |
