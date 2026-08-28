@@ -41,6 +41,7 @@ Coding Problems from Leetcode and GFG
 | [0713-subarray-product-less-than-k](https://github.com/Aashu4you/Coding-Profile/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Aashu4you/Coding-Profile/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Aashu4you/Coding-Profile/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/Aashu4you/Coding-Profile/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aashu4you/Coding-Profile/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -134,6 +135,7 @@ Coding Problems from Leetcode and GFG
 | [0455-assign-cookies](https://github.com/Aashu4you/Coding-Profile/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Aashu4you/Coding-Profile/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/Aashu4you/Coding-Profile/tree/master/0645-set-mismatch) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Aashu4you/Coding-Profile/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Aashu4you/Coding-Profile/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3024-type-of-triangle](https://github.com/Aashu4you/Coding-Profile/tree/master/3024-type-of-triangle) |
 ## Greedy
