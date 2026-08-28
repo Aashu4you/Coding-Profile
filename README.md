@@ -101,6 +101,7 @@ Coding Problems from Leetcode and GFG
 | [0557-reverse-words-in-a-string-iii](https://github.com/Aashu4you/Coding-Profile/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/Aashu4you/Coding-Profile/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/Aashu4you/Coding-Profile/tree/master/1768-merge-strings-alternately) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Aashu4you/Coding-Profile/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Binary Search
 |  |
@@ -290,6 +291,7 @@ Coding Problems from Leetcode and GFG
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Aashu4you/Coding-Profile/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aashu4you/Coding-Profile/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Aashu4you/Coding-Profile/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Linked List
 |  |
@@ -452,4 +454,5 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
