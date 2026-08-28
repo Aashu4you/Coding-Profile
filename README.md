@@ -57,6 +57,7 @@ Coding Problems from Leetcode and GFG
 | [1816-truncate-sentence](https://github.com/Aashu4you/Coding-Profile/tree/master/1816-truncate-sentence) |
 | [1872-stone-game-viii](https://github.com/Aashu4you/Coding-Profile/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Aashu4you/Coding-Profile/tree/master/2029-stone-game-ix) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Aashu4you/Coding-Profile/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Aashu4you/Coding-Profile/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aashu4you/Coding-Profile/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2404-most-frequent-even-element](https://github.com/Aashu4you/Coding-Profile/tree/master/2404-most-frequent-even-element) |
@@ -198,6 +199,7 @@ Coding Problems from Leetcode and GFG
 | [1748-sum-of-unique-elements](https://github.com/Aashu4you/Coding-Profile/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aashu4you/Coding-Profile/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Aashu4you/Coding-Profile/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Aashu4you/Coding-Profile/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Aashu4you/Coding-Profile/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Aashu4you/Coding-Profile/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2404-most-frequent-even-element](https://github.com/Aashu4you/Coding-Profile/tree/master/2404-most-frequent-even-element) |
@@ -245,6 +247,7 @@ Coding Problems from Leetcode and GFG
 | [1748-sum-of-unique-elements](https://github.com/Aashu4you/Coding-Profile/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Aashu4you/Coding-Profile/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2029-stone-game-ix](https://github.com/Aashu4you/Coding-Profile/tree/master/2029-stone-game-ix) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Aashu4you/Coding-Profile/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2404-most-frequent-even-element](https://github.com/Aashu4you/Coding-Profile/tree/master/2404-most-frequent-even-element) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Math
