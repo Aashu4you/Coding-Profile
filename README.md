@@ -187,6 +187,7 @@ Coding Problems from Leetcode and GFG
 | [0042-trapping-rain-water](https://github.com/Aashu4you/Coding-Profile/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/Aashu4you/Coding-Profile/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/Aashu4you/Coding-Profile/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
@@ -507,4 +508,8 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aashu4you/Coding-Profile/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Aashu4you/Coding-Profile/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
