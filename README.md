@@ -65,6 +65,7 @@ Coding Problems from Leetcode and GFG
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Aashu4you/Coding-Profile/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Aashu4you/Coding-Profile/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aashu4you/Coding-Profile/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Aashu4you/Coding-Profile/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2404-most-frequent-even-element](https://github.com/Aashu4you/Coding-Profile/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Aashu4you/Coding-Profile/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aashu4you/Coding-Profile/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -220,6 +221,7 @@ Coding Problems from Leetcode and GFG
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Aashu4you/Coding-Profile/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Aashu4you/Coding-Profile/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Aashu4you/Coding-Profile/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Aashu4you/Coding-Profile/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Aashu4you/Coding-Profile/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2404-most-frequent-even-element](https://github.com/Aashu4you/Coding-Profile/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Aashu4you/Coding-Profile/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
