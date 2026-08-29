@@ -55,6 +55,7 @@ Coding Problems from Leetcode and GFG
 | [1563-stone-game-v](https://github.com/Aashu4you/Coding-Profile/tree/master/1563-stone-game-v) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Aashu4you/Coding-Profile/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aashu4you/Coding-Profile/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/Aashu4you/Coding-Profile/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Aashu4you/Coding-Profile/tree/master/1748-sum-of-unique-elements) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Aashu4you/Coding-Profile/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1816-truncate-sentence](https://github.com/Aashu4you/Coding-Profile/tree/master/1816-truncate-sentence) |
@@ -252,6 +253,7 @@ Coding Problems from Leetcode and GFG
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aashu4you/Coding-Profile/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aashu4you/Coding-Profile/tree/master/1004-max-consecutive-ones-iii) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Aashu4you/Coding-Profile/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1732-find-the-highest-altitude](https://github.com/Aashu4you/Coding-Profile/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/Aashu4you/Coding-Profile/tree/master/1872-stone-game-viii) |
 ## Counting
 |  |
