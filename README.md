@@ -51,6 +51,7 @@ Coding Problems from Leetcode and GFG
 | [1004-max-consecutive-ones-iii](https://github.com/Aashu4you/Coding-Profile/tree/master/1004-max-consecutive-ones-iii) |
 | [1386-cinema-seat-allocation](https://github.com/Aashu4you/Coding-Profile/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Aashu4you/Coding-Profile/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aashu4you/Coding-Profile/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1563-stone-game-v](https://github.com/Aashu4you/Coding-Profile/tree/master/1563-stone-game-v) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Aashu4you/Coding-Profile/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aashu4you/Coding-Profile/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -173,6 +174,7 @@ Coding Problems from Leetcode and GFG
 | [0042-trapping-rain-water](https://github.com/Aashu4you/Coding-Profile/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/Aashu4you/Coding-Profile/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Aashu4you/Coding-Profile/tree/master/0392-is-subsequence) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aashu4you/Coding-Profile/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1563-stone-game-v](https://github.com/Aashu4you/Coding-Profile/tree/master/1563-stone-game-v) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Aashu4you/Coding-Profile/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1872-stone-game-viii](https://github.com/Aashu4you/Coding-Profile/tree/master/1872-stone-game-viii) |
@@ -233,6 +235,7 @@ Coding Problems from Leetcode and GFG
 | [0904-fruit-into-baskets](https://github.com/Aashu4you/Coding-Profile/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Aashu4you/Coding-Profile/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aashu4you/Coding-Profile/tree/master/1004-max-consecutive-ones-iii) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Aashu4you/Coding-Profile/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aashu4you/Coding-Profile/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Aashu4you/Coding-Profile/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aashu4you/Coding-Profile/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
