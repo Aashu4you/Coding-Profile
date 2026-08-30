@@ -62,6 +62,7 @@ Coding Problems from Leetcode and GFG
 | [1816-truncate-sentence](https://github.com/Aashu4you/Coding-Profile/tree/master/1816-truncate-sentence) |
 | [1872-stone-game-viii](https://github.com/Aashu4you/Coding-Profile/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Aashu4you/Coding-Profile/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Aashu4you/Coding-Profile/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Aashu4you/Coding-Profile/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Aashu4you/Coding-Profile/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aashu4you/Coding-Profile/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -170,6 +171,7 @@ Coding Problems from Leetcode and GFG
 | [0605-can-place-flowers](https://github.com/Aashu4you/Coding-Profile/tree/master/0605-can-place-flowers) |
 | [1386-cinema-seat-allocation](https://github.com/Aashu4you/Coding-Profile/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Aashu4you/Coding-Profile/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Aashu4you/Coding-Profile/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
