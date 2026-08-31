@@ -63,6 +63,7 @@ Coding Problems from Leetcode and GFG
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Aashu4you/Coding-Profile/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1816-truncate-sentence](https://github.com/Aashu4you/Coding-Profile/tree/master/1816-truncate-sentence) |
 | [1872-stone-game-viii](https://github.com/Aashu4you/Coding-Profile/tree/master/1872-stone-game-viii) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Aashu4you/Coding-Profile/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2029-stone-game-ix](https://github.com/Aashu4you/Coding-Profile/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aashu4you/Coding-Profile/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Aashu4you/Coding-Profile/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -227,6 +228,7 @@ Coding Problems from Leetcode and GFG
 | [1748-sum-of-unique-elements](https://github.com/Aashu4you/Coding-Profile/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aashu4you/Coding-Profile/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Aashu4you/Coding-Profile/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Aashu4you/Coding-Profile/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Aashu4you/Coding-Profile/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Aashu4you/Coding-Profile/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Aashu4you/Coding-Profile/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -281,6 +283,7 @@ Coding Problems from Leetcode and GFG
 | [1684-count-the-number-of-consistent-strings](https://github.com/Aashu4you/Coding-Profile/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/Aashu4you/Coding-Profile/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Aashu4you/Coding-Profile/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Aashu4you/Coding-Profile/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2029-stone-game-ix](https://github.com/Aashu4you/Coding-Profile/tree/master/2029-stone-game-ix) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Aashu4you/Coding-Profile/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2404-most-frequent-even-element](https://github.com/Aashu4you/Coding-Profile/tree/master/2404-most-frequent-even-element) |
