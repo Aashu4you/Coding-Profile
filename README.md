@@ -243,6 +243,7 @@ Coding Problems from Leetcode and GFG
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aashu4you/Coding-Profile/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3866-first-unique-even-element](https://github.com/Aashu4you/Coding-Profile/tree/master/3866-first-unique-even-element) |
+| [3945-digit-frequency-score](https://github.com/Aashu4you/Coding-Profile/tree/master/3945-digit-frequency-score) |
 ## Sliding Window
 |  |
 | ------- |
@@ -322,6 +323,7 @@ Coding Problems from Leetcode and GFG
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aashu4you/Coding-Profile/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aashu4you/Coding-Profile/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3908-valid-digit-number](https://github.com/Aashu4you/Coding-Profile/tree/master/3908-valid-digit-number) |
+| [3945-digit-frequency-score](https://github.com/Aashu4you/Coding-Profile/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
