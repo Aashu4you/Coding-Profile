@@ -96,6 +96,7 @@ Coding Problems from Leetcode and GFG
 | [0412-fizz-buzz](https://github.com/Aashu4you/Coding-Profile/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/Aashu4you/Coding-Profile/tree/master/0832-flipping-an-image) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Aashu4you/Coding-Profile/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2390-removing-stars-from-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aashu4you/Coding-Profile/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Aashu4you/Coding-Profile/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3925-concatenate-array-with-reverse](https://github.com/Aashu4you/Coding-Profile/tree/master/3925-concatenate-array-with-reverse) |
@@ -197,6 +198,7 @@ Coding Problems from Leetcode and GFG
 | [0155-min-stack](https://github.com/Aashu4you/Coding-Profile/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/Aashu4you/Coding-Profile/tree/master/0496-next-greater-element-i) |
+| [2390-removing-stars-from-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -361,6 +363,7 @@ Coding Problems from Leetcode and GFG
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Aashu4you/Coding-Profile/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aashu4you/Coding-Profile/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Aashu4you/Coding-Profile/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2390-removing-stars-from-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Aashu4you/Coding-Profile/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aashu4you/Coding-Profile/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
