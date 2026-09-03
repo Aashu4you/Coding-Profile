@@ -87,6 +87,7 @@ Coding Problems from Leetcode and GFG
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aashu4you/Coding-Profile/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3866-first-unique-even-element](https://github.com/Aashu4you/Coding-Profile/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aashu4you/Coding-Profile/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/Aashu4you/Coding-Profile/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
 |  |
@@ -345,6 +346,7 @@ Coding Problems from Leetcode and GFG
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aashu4you/Coding-Profile/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aashu4you/Coding-Profile/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aashu4you/Coding-Profile/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3908-valid-digit-number](https://github.com/Aashu4you/Coding-Profile/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/Aashu4you/Coding-Profile/tree/master/3945-digit-frequency-score) |
 ## String
