@@ -258,6 +258,7 @@ Coding Problems from Leetcode and GFG
 | [2729-check-if-the-number-is-fascinating](https://github.com/Aashu4you/Coding-Profile/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aashu4you/Coding-Profile/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aashu4you/Coding-Profile/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Aashu4you/Coding-Profile/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Aashu4you/Coding-Profile/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aashu4you/Coding-Profile/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aashu4you/Coding-Profile/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -390,6 +391,7 @@ Coding Problems from Leetcode and GFG
 | [2390-removing-stars-from-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Aashu4you/Coding-Profile/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aashu4you/Coding-Profile/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Aashu4you/Coding-Profile/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Aashu4you/Coding-Profile/tree/master/3775-reverse-words-with-same-vowel-count) |
