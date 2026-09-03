@@ -1,11 +1,10 @@
 class Solution {
 public:
-
-    int maxloot(vector<int>&arr,int idx,vector<int>&dp){
-        if(idx>=arr.size()) return 0;
+    int maxloot(vector<int> &nums,int idx, vector<int> &dp){
+        if(idx>=nums.size()) return 0;
         if(dp[idx]!=-1) return dp[idx];
-        int steal = arr[idx]+maxloot(arr,idx+2,dp);
-        int skip = maxloot(arr,idx+1,dp);
+        int steal = nums[idx]+maxloot(nums,idx+2,dp);
+        int skip = maxloot(nums,idx+1,dp);
         return dp[idx]=max(steal,skip);
     }
     int rob(vector<int>& nums) {
