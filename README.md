@@ -207,6 +207,7 @@ Coding Problems from Leetcode and GFG
 | [0070-climbing-stairs](https://github.com/Aashu4you/Coding-Profile/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Aashu4you/Coding-Profile/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Aashu4you/Coding-Profile/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/Aashu4you/Coding-Profile/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Aashu4you/Coding-Profile/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Aashu4you/Coding-Profile/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Aashu4you/Coding-Profile/tree/master/1137-n-th-tribonacci-number) |
@@ -472,6 +473,7 @@ Coding Problems from Leetcode and GFG
 | [0136-single-number](https://github.com/Aashu4you/Coding-Profile/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Aashu4you/Coding-Profile/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/Aashu4you/Coding-Profile/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Aashu4you/Coding-Profile/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Aashu4you/Coding-Profile/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/Aashu4you/Coding-Profile/tree/master/0645-set-mismatch) |
