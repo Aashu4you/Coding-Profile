@@ -89,6 +89,7 @@ Coding Problems from Leetcode and GFG
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aashu4you/Coding-Profile/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aashu4you/Coding-Profile/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aashu4you/Coding-Profile/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3843-first-element-with-unique-frequency](https://github.com/Aashu4you/Coding-Profile/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/Aashu4you/Coding-Profile/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aashu4you/Coding-Profile/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -272,6 +273,7 @@ Coding Problems from Leetcode and GFG
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aashu4you/Coding-Profile/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3790-smallest-all-ones-multiple](https://github.com/Aashu4you/Coding-Profile/tree/master/3790-smallest-all-ones-multiple) |
+| [3843-first-element-with-unique-frequency](https://github.com/Aashu4you/Coding-Profile/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/Aashu4you/Coding-Profile/tree/master/3866-first-unique-even-element) |
 | [3941-password-strength](https://github.com/Aashu4you/Coding-Profile/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/Aashu4you/Coding-Profile/tree/master/3945-digit-frequency-score) |
@@ -325,6 +327,7 @@ Coding Problems from Leetcode and GFG
 | [2404-most-frequent-even-element](https://github.com/Aashu4you/Coding-Profile/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Aashu4you/Coding-Profile/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3843-first-element-with-unique-frequency](https://github.com/Aashu4you/Coding-Profile/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/Aashu4you/Coding-Profile/tree/master/3866-first-unique-even-element) |
 ## Math
 |  |
