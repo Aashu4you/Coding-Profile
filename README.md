@@ -69,6 +69,7 @@ Coding Problems from Leetcode and GFG
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Aashu4you/Coding-Profile/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2029-stone-game-ix](https://github.com/Aashu4you/Coding-Profile/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aashu4you/Coding-Profile/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/2109-adding-spaces-to-a-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Aashu4you/Coding-Profile/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Aashu4you/Coding-Profile/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aashu4you/Coding-Profile/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -109,6 +110,7 @@ Coding Problems from Leetcode and GFG
 | [0258-add-digits](https://github.com/Aashu4you/Coding-Profile/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Aashu4you/Coding-Profile/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/Aashu4you/Coding-Profile/tree/master/0832-flipping-an-image) |
+| [2109-adding-spaces-to-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/2109-adding-spaces-to-a-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Aashu4you/Coding-Profile/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2352-equal-row-and-column-pairs](https://github.com/Aashu4you/Coding-Profile/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/2390-removing-stars-from-a-string) |
@@ -142,6 +144,7 @@ Coding Problems from Leetcode and GFG
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aashu4you/Coding-Profile/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Aashu4you/Coding-Profile/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Aashu4you/Coding-Profile/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2109-adding-spaces-to-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/2109-adding-spaces-to-a-string) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Aashu4you/Coding-Profile/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Aashu4you/Coding-Profile/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -402,6 +405,7 @@ Coding Problems from Leetcode and GFG
 | [1816-truncate-sentence](https://github.com/Aashu4you/Coding-Profile/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aashu4you/Coding-Profile/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Aashu4you/Coding-Profile/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2109-adding-spaces-to-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/2109-adding-spaces-to-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aashu4you/Coding-Profile/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Aashu4you/Coding-Profile/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/Aashu4you/Coding-Profile/tree/master/2351-first-letter-to-appear-twice) |
