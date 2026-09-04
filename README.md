@@ -91,6 +91,7 @@ Coding Problems from Leetcode and GFG
 | [3866-first-unique-even-element](https://github.com/Aashu4you/Coding-Profile/tree/master/3866-first-unique-even-element) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aashu4you/Coding-Profile/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3903-smallest-stable-index-i](https://github.com/Aashu4you/Coding-Profile/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Aashu4you/Coding-Profile/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
 |  |
@@ -301,6 +302,7 @@ Coding Problems from Leetcode and GFG
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Aashu4you/Coding-Profile/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/Aashu4you/Coding-Profile/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/Aashu4you/Coding-Profile/tree/master/1872-stone-game-viii) |
+| [3903-smallest-stable-index-i](https://github.com/Aashu4you/Coding-Profile/tree/master/3903-smallest-stable-index-i) |
 ## Counting
 |  |
 | ------- |
