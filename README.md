@@ -206,6 +206,7 @@ Coding Problems from Leetcode and GFG
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aashu4you/Coding-Profile/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Aashu4you/Coding-Profile/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Aashu4you/Coding-Profile/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/Aashu4you/Coding-Profile/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Aashu4you/Coding-Profile/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Aashu4you/Coding-Profile/tree/master/0338-counting-bits) |
@@ -385,6 +386,7 @@ Coding Problems from Leetcode and GFG
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aashu4you/Coding-Profile/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0115-distinct-subsequences](https://github.com/Aashu4you/Coding-Profile/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Aashu4you/Coding-Profile/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Aashu4you/Coding-Profile/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Aashu4you/Coding-Profile/tree/master/0171-excel-sheet-column-number) |
