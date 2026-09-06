@@ -88,6 +88,7 @@ Coding Problems from Leetcode and GFG
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Aashu4you/Coding-Profile/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3295-report-spam-message](https://github.com/Aashu4you/Coding-Profile/tree/master/3295-report-spam-message) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aashu4you/Coding-Profile/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/Aashu4you/Coding-Profile/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aashu4you/Coding-Profile/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aashu4you/Coding-Profile/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aashu4you/Coding-Profile/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -117,6 +118,7 @@ Coding Problems from Leetcode and GFG
 | [2352-equal-row-and-column-pairs](https://github.com/Aashu4you/Coding-Profile/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aashu4you/Coding-Profile/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/Aashu4you/Coding-Profile/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Aashu4you/Coding-Profile/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3925-concatenate-array-with-reverse](https://github.com/Aashu4you/Coding-Profile/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
@@ -280,6 +282,7 @@ Coding Problems from Leetcode and GFG
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Aashu4you/Coding-Profile/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3295-report-spam-message](https://github.com/Aashu4you/Coding-Profile/tree/master/3295-report-spam-message) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aashu4you/Coding-Profile/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/Aashu4you/Coding-Profile/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aashu4you/Coding-Profile/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aashu4you/Coding-Profile/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -425,6 +428,7 @@ Coding Problems from Leetcode and GFG
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aashu4you/Coding-Profile/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Aashu4you/Coding-Profile/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3295-report-spam-message](https://github.com/Aashu4you/Coding-Profile/tree/master/3295-report-spam-message) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/Aashu4you/Coding-Profile/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Aashu4you/Coding-Profile/tree/master/3775-reverse-words-with-same-vowel-count) |
