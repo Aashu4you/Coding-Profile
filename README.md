@@ -207,6 +207,7 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aashu4you/Coding-Profile/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/Aashu4you/Coding-Profile/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Aashu4you/Coding-Profile/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Aashu4you/Coding-Profile/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/Aashu4you/Coding-Profile/tree/master/0152-maximum-product-subarray) |
@@ -348,6 +349,7 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Aashu4you/Coding-Profile/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Aashu4you/Coding-Profile/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Aashu4you/Coding-Profile/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Aashu4you/Coding-Profile/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Aashu4you/Coding-Profile/tree/master/0168-excel-sheet-column-title) |
@@ -566,6 +568,7 @@ Coding Problems from Leetcode and GFG
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Aashu4you/Coding-Profile/tree/master/0062-unique-paths) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aashu4you/Coding-Profile/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
 |  |
