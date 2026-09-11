@@ -37,6 +37,7 @@ Coding Problems from Leetcode and GFG
 | [0506-relative-ranks](https://github.com/Aashu4you/Coding-Profile/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Aashu4you/Coding-Profile/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/Aashu4you/Coding-Profile/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/Aashu4you/Coding-Profile/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Aashu4you/Coding-Profile/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Aashu4you/Coding-Profile/tree/master/0645-set-mismatch) |
@@ -254,6 +255,7 @@ Coding Problems from Leetcode and GFG
 | [0496-next-greater-element-i](https://github.com/Aashu4you/Coding-Profile/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Aashu4you/Coding-Profile/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/Aashu4you/Coding-Profile/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Aashu4you/Coding-Profile/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/Aashu4you/Coding-Profile/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Aashu4you/Coding-Profile/tree/master/0884-uncommon-words-from-two-sentences) |
