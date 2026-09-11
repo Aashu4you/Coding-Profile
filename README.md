@@ -88,6 +88,7 @@ Coding Problems from Leetcode and GFG
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Aashu4you/Coding-Profile/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3295-report-spam-message](https://github.com/Aashu4you/Coding-Profile/tree/master/3295-report-spam-message) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aashu4you/Coding-Profile/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aashu4you/Coding-Profile/tree/master/3483-unique-3-digit-even-numbers) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/Aashu4you/Coding-Profile/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aashu4you/Coding-Profile/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aashu4you/Coding-Profile/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -283,6 +284,7 @@ Coding Problems from Leetcode and GFG
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Aashu4you/Coding-Profile/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3295-report-spam-message](https://github.com/Aashu4you/Coding-Profile/tree/master/3295-report-spam-message) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aashu4you/Coding-Profile/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aashu4you/Coding-Profile/tree/master/3483-unique-3-digit-even-numbers) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/Aashu4you/Coding-Profile/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aashu4you/Coding-Profile/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aashu4you/Coding-Profile/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -471,6 +473,7 @@ Coding Problems from Leetcode and GFG
 | [0326-power-of-three](https://github.com/Aashu4you/Coding-Profile/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Aashu4you/Coding-Profile/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Aashu4you/Coding-Profile/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aashu4you/Coding-Profile/tree/master/3483-unique-3-digit-even-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -613,6 +616,7 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Aashu4you/Coding-Profile/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Aashu4you/Coding-Profile/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Bracket Sequences
