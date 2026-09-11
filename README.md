@@ -86,6 +86,7 @@ Coding Problems from Leetcode and GFG
 | [3005-count-elements-with-maximum-frequency](https://github.com/Aashu4you/Coding-Profile/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3024-type-of-triangle](https://github.com/Aashu4you/Coding-Profile/tree/master/3024-type-of-triangle) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aashu4you/Coding-Profile/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3115-maximum-prime-difference](https://github.com/Aashu4you/Coding-Profile/tree/master/3115-maximum-prime-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aashu4you/Coding-Profile/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Aashu4you/Coding-Profile/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3295-report-spam-message](https://github.com/Aashu4you/Coding-Profile/tree/master/3295-report-spam-message) |
@@ -391,6 +392,7 @@ Coding Problems from Leetcode and GFG
 | [2729-check-if-the-number-is-fascinating](https://github.com/Aashu4you/Coding-Profile/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/Aashu4you/Coding-Profile/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3024-type-of-triangle](https://github.com/Aashu4you/Coding-Profile/tree/master/3024-type-of-triangle) |
+| [3115-maximum-prime-difference](https://github.com/Aashu4you/Coding-Profile/tree/master/3115-maximum-prime-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aashu4you/Coding-Profile/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aashu4you/Coding-Profile/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3663-find-the-least-frequent-digit](https://github.com/Aashu4you/Coding-Profile/tree/master/3663-find-the-least-frequent-digit) |
@@ -589,6 +591,7 @@ Coding Problems from Leetcode and GFG
 | ------- |
 | [0258-add-digits](https://github.com/Aashu4you/Coding-Profile/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/Aashu4you/Coding-Profile/tree/master/2413-smallest-even-multiple) |
+| [3115-maximum-prime-difference](https://github.com/Aashu4you/Coding-Profile/tree/master/3115-maximum-prime-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aashu4you/Coding-Profile/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Interactive
 |  |
@@ -644,4 +647,8 @@ Coding Problems from Leetcode and GFG
 | [0070-climbing-stairs](https://github.com/Aashu4you/Coding-Profile/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Aashu4you/Coding-Profile/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Aashu4you/Coding-Profile/tree/master/1137-n-th-tribonacci-number) |
+## Primality Test
+|  |
+| ------- |
+| [3115-maximum-prime-difference](https://github.com/Aashu4you/Coding-Profile/tree/master/3115-maximum-prime-difference) |
 <!---LeetCode Topics End-->
