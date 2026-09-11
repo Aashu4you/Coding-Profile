@@ -378,6 +378,7 @@ Coding Problems from Leetcode and GFG
 | [1344-angle-between-hands-of-a-clock](https://github.com/Aashu4you/Coding-Profile/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1563-stone-game-v](https://github.com/Aashu4you/Coding-Profile/tree/master/1563-stone-game-v) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Aashu4you/Coding-Profile/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Aashu4you/Coding-Profile/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Aashu4you/Coding-Profile/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1872-stone-game-viii](https://github.com/Aashu4you/Coding-Profile/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Aashu4you/Coding-Profile/tree/master/2029-stone-game-ix) |
