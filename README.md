@@ -93,6 +93,7 @@ Coding Problems from Leetcode and GFG
 | [3483-unique-3-digit-even-numbers](https://github.com/Aashu4you/Coding-Profile/tree/master/3483-unique-3-digit-even-numbers) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/Aashu4you/Coding-Profile/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aashu4you/Coding-Profile/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3663-find-the-least-frequent-digit](https://github.com/Aashu4you/Coding-Profile/tree/master/3663-find-the-least-frequent-digit) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aashu4you/Coding-Profile/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aashu4you/Coding-Profile/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3843-first-element-with-unique-frequency](https://github.com/Aashu4you/Coding-Profile/tree/master/3843-first-element-with-unique-frequency) |
@@ -292,6 +293,7 @@ Coding Problems from Leetcode and GFG
 | [3483-unique-3-digit-even-numbers](https://github.com/Aashu4you/Coding-Profile/tree/master/3483-unique-3-digit-even-numbers) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/Aashu4you/Coding-Profile/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aashu4you/Coding-Profile/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3663-find-the-least-frequent-digit](https://github.com/Aashu4you/Coding-Profile/tree/master/3663-find-the-least-frequent-digit) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aashu4you/Coding-Profile/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3790-smallest-all-ones-multiple](https://github.com/Aashu4you/Coding-Profile/tree/master/3790-smallest-all-ones-multiple) |
@@ -349,6 +351,7 @@ Coding Problems from Leetcode and GFG
 | [2351-first-letter-to-appear-twice](https://github.com/Aashu4you/Coding-Profile/tree/master/2351-first-letter-to-appear-twice) |
 | [2404-most-frequent-even-element](https://github.com/Aashu4you/Coding-Profile/tree/master/2404-most-frequent-even-element) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Aashu4you/Coding-Profile/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3663-find-the-least-frequent-digit](https://github.com/Aashu4you/Coding-Profile/tree/master/3663-find-the-least-frequent-digit) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3843-first-element-with-unique-frequency](https://github.com/Aashu4you/Coding-Profile/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/Aashu4you/Coding-Profile/tree/master/3866-first-unique-even-element) |
@@ -390,6 +393,7 @@ Coding Problems from Leetcode and GFG
 | [3024-type-of-triangle](https://github.com/Aashu4you/Coding-Profile/tree/master/3024-type-of-triangle) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aashu4you/Coding-Profile/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Aashu4you/Coding-Profile/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3663-find-the-least-frequent-digit](https://github.com/Aashu4you/Coding-Profile/tree/master/3663-find-the-least-frequent-digit) |
 | [3790-smallest-all-ones-multiple](https://github.com/Aashu4you/Coding-Profile/tree/master/3790-smallest-all-ones-multiple) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Aashu4you/Coding-Profile/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/3876-construct-uniform-parity-array-ii) |
