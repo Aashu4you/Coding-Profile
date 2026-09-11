@@ -95,6 +95,7 @@ Coding Problems from Leetcode and GFG
 | [3522-calculate-score-after-performing-instructions](https://github.com/Aashu4you/Coding-Profile/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aashu4you/Coding-Profile/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3663-find-the-least-frequent-digit](https://github.com/Aashu4you/Coding-Profile/tree/master/3663-find-the-least-frequent-digit) |
+| [3701-compute-alternating-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aashu4you/Coding-Profile/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aashu4you/Coding-Profile/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3843-first-element-with-unique-frequency](https://github.com/Aashu4you/Coding-Profile/tree/master/3843-first-element-with-unique-frequency) |
@@ -124,6 +125,7 @@ Coding Problems from Leetcode and GFG
 | [2390-removing-stars-from-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aashu4you/Coding-Profile/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/Aashu4you/Coding-Profile/tree/master/3522-calculate-score-after-performing-instructions) |
+| [3701-compute-alternating-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/3701-compute-alternating-sum) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Aashu4you/Coding-Profile/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3925-concatenate-array-with-reverse](https://github.com/Aashu4you/Coding-Profile/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
