@@ -68,6 +68,7 @@ Coding Problems from Leetcode and GFG
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Aashu4you/Coding-Profile/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1816-truncate-sentence](https://github.com/Aashu4you/Coding-Profile/tree/master/1816-truncate-sentence) |
 | [1872-stone-game-viii](https://github.com/Aashu4you/Coding-Profile/tree/master/1872-stone-game-viii) |
+| [1929-concatenation-of-array](https://github.com/Aashu4you/Coding-Profile/tree/master/1929-concatenation-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Aashu4you/Coding-Profile/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2029-stone-game-ix](https://github.com/Aashu4you/Coding-Profile/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aashu4you/Coding-Profile/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -120,6 +121,7 @@ Coding Problems from Leetcode and GFG
 | [0258-add-digits](https://github.com/Aashu4you/Coding-Profile/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Aashu4you/Coding-Profile/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/Aashu4you/Coding-Profile/tree/master/0832-flipping-an-image) |
+| [1929-concatenation-of-array](https://github.com/Aashu4you/Coding-Profile/tree/master/1929-concatenation-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/2109-adding-spaces-to-a-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Aashu4you/Coding-Profile/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2352-equal-row-and-column-pairs](https://github.com/Aashu4you/Coding-Profile/tree/master/2352-equal-row-and-column-pairs) |
