@@ -660,4 +660,8 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [3115-maximum-prime-difference](https://github.com/Aashu4you/Coding-Profile/tree/master/3115-maximum-prime-difference) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Aashu4you/Coding-Profile/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
