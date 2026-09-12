@@ -90,6 +90,7 @@ Coding Problems from Leetcode and GFG
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aashu4you/Coding-Profile/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/Aashu4you/Coding-Profile/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3295-report-spam-message](https://github.com/Aashu4you/Coding-Profile/tree/master/3295-report-spam-message) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aashu4you/Coding-Profile/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aashu4you/Coding-Profile/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aashu4you/Coding-Profile/tree/master/3483-unique-3-digit-even-numbers) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/Aashu4you/Coding-Profile/tree/master/3522-calculate-score-after-performing-instructions) |
@@ -179,6 +180,7 @@ Coding Problems from Leetcode and GFG
 | [1004-max-consecutive-ones-iii](https://github.com/Aashu4you/Coding-Profile/tree/master/1004-max-consecutive-ones-iii) |
 | [2540-minimum-common-value](https://github.com/Aashu4you/Coding-Profile/tree/master/2540-minimum-common-value) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aashu4you/Coding-Profile/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aashu4you/Coding-Profile/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
 | ------- |
@@ -201,6 +203,7 @@ Coding Problems from Leetcode and GFG
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Aashu4you/Coding-Profile/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Aashu4you/Coding-Profile/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3024-type-of-triangle](https://github.com/Aashu4you/Coding-Profile/tree/master/3024-type-of-triangle) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aashu4you/Coding-Profile/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
@@ -229,6 +232,7 @@ Coding Problems from Leetcode and GFG
 | [1563-stone-game-v](https://github.com/Aashu4you/Coding-Profile/tree/master/1563-stone-game-v) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Aashu4you/Coding-Profile/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1872-stone-game-viii](https://github.com/Aashu4you/Coding-Profile/tree/master/1872-stone-game-viii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aashu4you/Coding-Profile/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Stack
 |  |
 | ------- |
