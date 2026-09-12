@@ -653,6 +653,7 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Aashu4you/Coding-Profile/tree/master/0155-min-stack) |
+| [0933-number-of-recent-calls](https://github.com/Aashu4you/Coding-Profile/tree/master/0933-number-of-recent-calls) |
 ## Memoization
 |  |
 | ------- |
@@ -667,4 +668,12 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Aashu4you/Coding-Profile/tree/master/0175-combine-two-tables) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Aashu4you/Coding-Profile/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Aashu4you/Coding-Profile/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
