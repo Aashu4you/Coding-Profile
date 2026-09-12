@@ -476,6 +476,7 @@ Coding Problems from Leetcode and GFG
 | [0101-symmetric-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0144-binary-tree-preorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/Aashu4you/Coding-Profile/tree/master/0872-leaf-similar-trees) |
@@ -485,6 +486,7 @@ Coding Problems from Leetcode and GFG
 | [0094-binary-tree-inorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0144-binary-tree-preorder-traversal) |
 | [0872-leaf-similar-trees](https://github.com/Aashu4you/Coding-Profile/tree/master/0872-leaf-similar-trees) |
 ## Binary Tree
@@ -494,6 +496,7 @@ Coding Problems from Leetcode and GFG
 | [0101-symmetric-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0144-binary-tree-preorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/Aashu4you/Coding-Profile/tree/master/0872-leaf-similar-trees) |
