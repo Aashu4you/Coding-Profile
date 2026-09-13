@@ -145,6 +145,7 @@ Coding Problems from Leetcode and GFG
 | [0075-sort-colors](https://github.com/Aashu4you/Coding-Profile/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aashu4you/Coding-Profile/tree/master/0125-valid-palindrome) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Aashu4you/Coding-Profile/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aashu4you/Coding-Profile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Aashu4you/Coding-Profile/tree/master/0202-happy-number) |
@@ -260,6 +261,7 @@ Coding Problems from Leetcode and GFG
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Aashu4you/Coding-Profile/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Aashu4you/Coding-Profile/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Aashu4you/Coding-Profile/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0219-contains-duplicate-ii) |
@@ -472,6 +474,7 @@ Coding Problems from Leetcode and GFG
 ## Linked List
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Aashu4you/Coding-Profile/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Aashu4you/Coding-Profile/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aashu4you/Coding-Profile/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Aashu4you/Coding-Profile/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
