@@ -489,6 +489,7 @@ Coding Problems from Leetcode and GFG
 | [0110-balanced-binary-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0144-binary-tree-preorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/Aashu4you/Coding-Profile/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
@@ -500,6 +501,7 @@ Coding Problems from Leetcode and GFG
 | [0110-balanced-binary-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0144-binary-tree-preorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0572-subtree-of-another-tree) |
 | [0872-leaf-similar-trees](https://github.com/Aashu4you/Coding-Profile/tree/master/0872-leaf-similar-trees) |
 ## Binary Tree
 |  |
@@ -511,6 +513,7 @@ Coding Problems from Leetcode and GFG
 | [0110-balanced-binary-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0144-binary-tree-preorder-traversal) |
+| [0572-subtree-of-another-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/Aashu4you/Coding-Profile/tree/master/0872-leaf-similar-trees) |
 ## Recursion
@@ -553,6 +556,7 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
@@ -715,4 +719,8 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/Aashu4you/Coding-Profile/tree/master/0692-top-k-frequent-words) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
