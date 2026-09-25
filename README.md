@@ -23,6 +23,7 @@ Coding Problems from Leetcode and GFG
 | [0152-maximum-product-subarray](https://github.com/Aashu4you/Coding-Profile/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Aashu4you/Coding-Profile/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aashu4you/Coding-Profile/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Aashu4you/Coding-Profile/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Aashu4you/Coding-Profile/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0209-minimum-size-subarray-sum) |
@@ -198,6 +199,7 @@ Coding Problems from Leetcode and GFG
 | [0015-3sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Aashu4you/Coding-Profile/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Aashu4you/Coding-Profile/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Aashu4you/Coding-Profile/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -269,6 +271,7 @@ Coding Problems from Leetcode and GFG
 | ------- |
 | [0001-two-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aashu4you/Coding-Profile/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Aashu4you/Coding-Profile/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Aashu4you/Coding-Profile/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Aashu4you/Coding-Profile/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0219-contains-duplicate-ii) |
@@ -364,6 +367,7 @@ Coding Problems from Leetcode and GFG
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aashu4you/Coding-Profile/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Aashu4you/Coding-Profile/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/Aashu4you/Coding-Profile/tree/master/0692-top-k-frequent-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Aashu4you/Coding-Profile/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -594,6 +598,7 @@ Coding Problems from Leetcode and GFG
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aashu4you/Coding-Profile/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Aashu4you/Coding-Profile/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Aashu4you/Coding-Profile/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Aashu4you/Coding-Profile/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
@@ -749,4 +754,8 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Aashu4you/Coding-Profile/tree/master/0836-rectangle-overlap) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aashu4you/Coding-Profile/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
