@@ -48,6 +48,7 @@ Coding Problems from Leetcode and GFG
 | [0645-set-mismatch](https://github.com/Aashu4you/Coding-Profile/tree/master/0645-set-mismatch) |
 | [0665-non-decreasing-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0665-non-decreasing-array) |
 | [0692-top-k-frequent-words](https://github.com/Aashu4you/Coding-Profile/tree/master/0692-top-k-frequent-words) |
+| [0704-binary-search](https://github.com/Aashu4you/Coding-Profile/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Aashu4you/Coding-Profile/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Aashu4you/Coding-Profile/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -186,6 +187,7 @@ Coding Problems from Leetcode and GFG
 | [0349-intersection-of-two-arrays](https://github.com/Aashu4you/Coding-Profile/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Aashu4you/Coding-Profile/tree/master/0374-guess-number-higher-or-lower) |
+| [0704-binary-search](https://github.com/Aashu4you/Coding-Profile/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Aashu4you/Coding-Profile/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0852-peak-index-in-a-mountain-array) |
