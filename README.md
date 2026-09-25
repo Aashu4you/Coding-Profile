@@ -6,6 +6,7 @@ Coding Problems from Leetcode and GFG
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aashu4you/Coding-Profile/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Aashu4you/Coding-Profile/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0015-3sum) |
@@ -264,6 +265,7 @@ Coding Problems from Leetcode and GFG
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aashu4you/Coding-Profile/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Aashu4you/Coding-Profile/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Aashu4you/Coding-Profile/tree/master/0205-isomorphic-strings) |
