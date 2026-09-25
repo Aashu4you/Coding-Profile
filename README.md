@@ -271,6 +271,7 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aashu4you/Coding-Profile/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Aashu4you/Coding-Profile/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aashu4you/Coding-Profile/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Aashu4you/Coding-Profile/tree/master/0169-majority-element) |
@@ -335,6 +336,7 @@ Coding Problems from Leetcode and GFG
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aashu4you/Coding-Profile/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -440,6 +442,7 @@ Coding Problems from Leetcode and GFG
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aashu4you/Coding-Profile/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Aashu4you/Coding-Profile/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0115-distinct-subsequences](https://github.com/Aashu4you/Coding-Profile/tree/master/0115-distinct-subsequences) |
