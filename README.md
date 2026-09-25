@@ -12,6 +12,7 @@ Coding Problems from Leetcode and GFG
 | [0015-3sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/Aashu4you/Coding-Profile/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Aashu4you/Coding-Profile/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Aashu4you/Coding-Profile/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Aashu4you/Coding-Profile/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Aashu4you/Coding-Profile/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Aashu4you/Coding-Profile/tree/master/0075-sort-colors) |
@@ -230,6 +231,7 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aashu4you/Coding-Profile/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Aashu4you/Coding-Profile/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Aashu4you/Coding-Profile/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Aashu4you/Coding-Profile/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Aashu4you/Coding-Profile/tree/master/0115-distinct-subsequences) |
@@ -591,6 +593,7 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aashu4you/Coding-Profile/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Aashu4you/Coding-Profile/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/Aashu4you/Coding-Profile/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
