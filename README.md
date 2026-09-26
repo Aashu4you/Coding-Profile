@@ -53,6 +53,7 @@ Coding Problems from Leetcode and GFG
 | [0704-binary-search](https://github.com/Aashu4you/Coding-Profile/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Aashu4you/Coding-Profile/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Aashu4you/Coding-Profile/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Aashu4you/Coding-Profile/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Aashu4you/Coding-Profile/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0832-flipping-an-image](https://github.com/Aashu4you/Coding-Profile/tree/master/0832-flipping-an-image) |
@@ -267,12 +268,14 @@ Coding Problems from Leetcode and GFG
 | [0155-min-stack](https://github.com/Aashu4you/Coding-Profile/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/Aashu4you/Coding-Profile/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Aashu4you/Coding-Profile/tree/master/0739-daily-temperatures) |
 | [2390-removing-stars-from-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aashu4you/Coding-Profile/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Aashu4you/Coding-Profile/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Aashu4you/Coding-Profile/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
