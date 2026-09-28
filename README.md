@@ -269,6 +269,7 @@ Coding Problems from Leetcode and GFG
 | [0227-basic-calculator-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/Aashu4you/Coding-Profile/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Aashu4you/Coding-Profile/tree/master/0739-daily-temperatures) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aashu4you/Coding-Profile/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
@@ -477,6 +478,7 @@ Coding Problems from Leetcode and GFG
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aashu4you/Coding-Profile/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aashu4you/Coding-Profile/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1556-thousand-separator](https://github.com/Aashu4you/Coding-Profile/tree/master/1556-thousand-separator) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aashu4you/Coding-Profile/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Aashu4you/Coding-Profile/tree/master/1657-determine-if-two-strings-are-close) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Aashu4you/Coding-Profile/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Aashu4you/Coding-Profile/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -722,6 +724,7 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aashu4you/Coding-Profile/tree/master/0020-valid-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aashu4you/Coding-Profile/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
