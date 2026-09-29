@@ -264,6 +264,7 @@ Coding Problems from Leetcode and GFG
 | [0042-trapping-rain-water](https://github.com/Aashu4you/Coding-Profile/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aashu4you/Coding-Profile/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Aashu4you/Coding-Profile/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0227-basic-calculator-ii) |
@@ -522,6 +523,7 @@ Coding Problems from Leetcode and GFG
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -536,6 +538,7 @@ Coding Problems from Leetcode and GFG
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0572-subtree-of-another-tree) |
 | [0872-leaf-similar-trees](https://github.com/Aashu4you/Coding-Profile/tree/master/0872-leaf-similar-trees) |
 ## Binary Tree
@@ -549,6 +552,7 @@ Coding Problems from Leetcode and GFG
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0145-binary-tree-postorder-traversal) |
 | [0572-subtree-of-another-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0701-insert-into-a-binary-search-tree) |
