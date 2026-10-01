@@ -19,6 +19,7 @@ Coding Problems from Leetcode and GFG
 | [0066-plus-one](https://github.com/Aashu4you/Coding-Profile/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Aashu4you/Coding-Profile/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Aashu4you/Coding-Profile/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Aashu4you/Coding-Profile/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0137-single-number-ii) |
@@ -283,6 +284,7 @@ Coding Problems from Leetcode and GFG
 | ------- |
 | [0001-two-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aashu4you/Coding-Profile/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Aashu4you/Coding-Profile/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aashu4you/Coding-Profile/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Aashu4you/Coding-Profile/tree/master/0169-majority-element) |
@@ -519,6 +521,7 @@ Coding Problems from Leetcode and GFG
 | [0101-symmetric-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0112-path-sum) |
@@ -552,6 +555,7 @@ Coding Problems from Leetcode and GFG
 | [0101-symmetric-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0112-path-sum) |
@@ -626,6 +630,7 @@ Coding Problems from Leetcode and GFG
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aashu4you/Coding-Profile/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Aashu4you/Coding-Profile/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/Aashu4you/Coding-Profile/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Aashu4you/Coding-Profile/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0215-kth-largest-element-in-an-array) |
