@@ -241,6 +241,7 @@ Coding Problems from Leetcode and GFG
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Aashu4you/Coding-Profile/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Aashu4you/Coding-Profile/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Aashu4you/Coding-Profile/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Aashu4you/Coding-Profile/tree/master/0062-unique-paths) |
@@ -457,6 +458,7 @@ Coding Problems from Leetcode and GFG
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aashu4you/Coding-Profile/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Aashu4you/Coding-Profile/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Aashu4you/Coding-Profile/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0115-distinct-subsequences](https://github.com/Aashu4you/Coding-Profile/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Aashu4you/Coding-Profile/tree/master/0125-valid-palindrome) |
@@ -739,6 +741,7 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aashu4you/Coding-Profile/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Aashu4you/Coding-Profile/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aashu4you/Coding-Profile/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
@@ -808,4 +811,8 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Aashu4you/Coding-Profile/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
