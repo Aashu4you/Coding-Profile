@@ -515,6 +515,7 @@ Coding Problems from Leetcode and GFG
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Aashu4you/Coding-Profile/tree/master/0021-merge-two-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aashu4you/Coding-Profile/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Aashu4you/Coding-Profile/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Aashu4you/Coding-Profile/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Aashu4you/Coding-Profile/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Aashu4you/Coding-Profile/tree/master/0876-middle-of-the-linked-list) |
@@ -533,6 +534,7 @@ Coding Problems from Leetcode and GFG
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aashu4you/Coding-Profile/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Aashu4you/Coding-Profile/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aashu4you/Coding-Profile/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -555,6 +557,7 @@ Coding Problems from Leetcode and GFG
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aashu4you/Coding-Profile/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Aashu4you/Coding-Profile/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aashu4you/Coding-Profile/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -576,6 +579,7 @@ Coding Problems from Leetcode and GFG
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Aashu4you/Coding-Profile/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Aashu4you/Coding-Profile/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aashu4you/Coding-Profile/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -606,6 +610,7 @@ Coding Problems from Leetcode and GFG
 | [0104-maximum-depth-of-binary-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Aashu4you/Coding-Profile/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aashu4you/Coding-Profile/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
 |  |
