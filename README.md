@@ -19,6 +19,7 @@ Coding Problems from Leetcode and GFG
 | [0054-spiral-matrix](https://github.com/Aashu4you/Coding-Profile/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Aashu4you/Coding-Profile/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Aashu4you/Coding-Profile/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Aashu4you/Coding-Profile/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Aashu4you/Coding-Profile/tree/master/0128-longest-consecutive-sequence) |
@@ -626,6 +627,7 @@ Coding Problems from Leetcode and GFG
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Aashu4you/Coding-Profile/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Aashu4you/Coding-Profile/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/Aashu4you/Coding-Profile/tree/master/0191-number-of-1-bits) |
@@ -856,4 +858,5 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aashu4you/Coding-Profile/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Aashu4you/Coding-Profile/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
