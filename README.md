@@ -474,6 +474,7 @@ Coding Problems from Leetcode and GFG
 | [0171-excel-sheet-column-number](https://github.com/Aashu4you/Coding-Profile/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Aashu4you/Coding-Profile/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0227-basic-calculator-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Aashu4you/Coding-Profile/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Aashu4you/Coding-Profile/tree/master/0383-ransom-note) |
@@ -625,6 +626,7 @@ Coding Problems from Leetcode and GFG
 | [0112-path-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Aashu4you/Coding-Profile/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Aashu4you/Coding-Profile/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/Aashu4you/Coding-Profile/tree/master/0404-sum-of-left-leaves) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Aashu4you/Coding-Profile/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
@@ -863,4 +865,5 @@ Coding Problems from Leetcode and GFG
 | ------- |
 | [0022-generate-parentheses](https://github.com/Aashu4you/Coding-Profile/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Aashu4you/Coding-Profile/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/Aashu4you/Coding-Profile/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
