@@ -279,6 +279,7 @@ Coding Problems from Leetcode and GFG
 | [0496-next-greater-element-i](https://github.com/Aashu4you/Coding-Profile/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Aashu4you/Coding-Profile/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aashu4you/Coding-Profile/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Aashu4you/Coding-Profile/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aashu4you/Coding-Profile/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
@@ -490,6 +491,7 @@ Coding Problems from Leetcode and GFG
 | [0796-rotate-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0796-rotate-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Aashu4you/Coding-Profile/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aashu4you/Coding-Profile/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Aashu4you/Coding-Profile/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Aashu4you/Coding-Profile/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Aashu4you/Coding-Profile/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1556-thousand-separator](https://github.com/Aashu4you/Coding-Profile/tree/master/1556-thousand-separator) |
@@ -784,6 +786,7 @@ Coding Problems from Leetcode and GFG
 | [0020-valid-parentheses](https://github.com/Aashu4you/Coding-Profile/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Aashu4you/Coding-Profile/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aashu4you/Coding-Profile/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Aashu4you/Coding-Profile/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aashu4you/Coding-Profile/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
