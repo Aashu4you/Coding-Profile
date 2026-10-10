@@ -5,11 +5,11 @@ public:
         
     }
     
-    void push(int val) {
+    void push(int value) {
         if(st.empty()){
-            st.push({val,val});
+            st.push({value,value});
         }else{
-            st.push({val,min(val,st.top().second)});
+            st.push({value,min(value,st.top().second)});
         }
     }
     
