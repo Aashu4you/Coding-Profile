@@ -32,6 +32,7 @@ Coding Problems from Leetcode and GFG
 | [0169-majority-element](https://github.com/Aashu4you/Coding-Profile/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Aashu4you/Coding-Profile/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Aashu4you/Coding-Profile/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0219-contains-duplicate-ii) |
@@ -128,6 +129,7 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Aashu4you/Coding-Profile/tree/master/0054-spiral-matrix) |
+| [0200-number-of-islands](https://github.com/Aashu4you/Coding-Profile/tree/master/0200-number-of-islands) |
 | [0832-flipping-an-image](https://github.com/Aashu4you/Coding-Profile/tree/master/0832-flipping-an-image) |
 | [0835-image-overlap](https://github.com/Aashu4you/Coding-Profile/tree/master/0835-image-overlap) |
 | [2352-equal-row-and-column-pairs](https://github.com/Aashu4you/Coding-Profile/tree/master/2352-equal-row-and-column-pairs) |
@@ -584,6 +586,7 @@ Coding Problems from Leetcode and GFG
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Aashu4you/Coding-Profile/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Aashu4you/Coding-Profile/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aashu4you/Coding-Profile/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -642,6 +645,7 @@ Coding Problems from Leetcode and GFG
 | [0111-minimum-depth-of-binary-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Aashu4you/Coding-Profile/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0200-number-of-islands](https://github.com/Aashu4you/Coding-Profile/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Aashu4you/Coding-Profile/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Aashu4you/Coding-Profile/tree/master/0301-remove-invalid-parentheses) |
 | [0404-sum-of-left-leaves](https://github.com/Aashu4you/Coding-Profile/tree/master/0404-sum-of-left-leaves) |
@@ -872,6 +876,7 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aashu4you/Coding-Profile/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Aashu4you/Coding-Profile/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Aashu4you/Coding-Profile/tree/master/0547-number-of-provinces) |
 ## DP on Trees
 |  |
