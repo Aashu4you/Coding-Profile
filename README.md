@@ -38,6 +38,7 @@ Coding Problems from Leetcode and GFG
 | [0238-product-of-array-except-self](https://github.com/Aashu4you/Coding-Profile/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Aashu4you/Coding-Profile/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Aashu4you/Coding-Profile/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/Aashu4you/Coding-Profile/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Aashu4you/Coding-Profile/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Aashu4you/Coding-Profile/tree/master/0414-third-maximum-number) |
@@ -216,6 +217,7 @@ Coding Problems from Leetcode and GFG
 | [0088-merge-sorted-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Aashu4you/Coding-Profile/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Aashu4you/Coding-Profile/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Aashu4you/Coding-Profile/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Aashu4you/Coding-Profile/tree/master/0389-find-the-difference) |
@@ -303,6 +305,7 @@ Coding Problems from Leetcode and GFG
 | [0202-happy-number](https://github.com/Aashu4you/Coding-Profile/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Aashu4you/Coding-Profile/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Aashu4you/Coding-Profile/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Aashu4you/Coding-Profile/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Aashu4you/Coding-Profile/tree/master/0383-ransom-note) |
@@ -397,6 +400,7 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aashu4you/Coding-Profile/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Aashu4you/Coding-Profile/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Aashu4you/Coding-Profile/tree/master/0383-ransom-note) |
 | [0692-top-k-frequent-words](https://github.com/Aashu4you/Coding-Profile/tree/master/0692-top-k-frequent-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Aashu4you/Coding-Profile/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -691,16 +695,19 @@ Coding Problems from Leetcode and GFG
 | [0169-majority-element](https://github.com/Aashu4you/Coding-Profile/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Aashu4you/Coding-Profile/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Aashu4you/Coding-Profile/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Aashu4you/Coding-Profile/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/Aashu4you/Coding-Profile/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/Aashu4you/Coding-Profile/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Aashu4you/Coding-Profile/tree/master/0347-top-k-frequent-elements) |
 ## Minimax
 |  |
 | ------- |
@@ -846,6 +853,7 @@ Coding Problems from Leetcode and GFG
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aashu4you/Coding-Profile/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/Aashu4you/Coding-Profile/tree/master/0692-top-k-frequent-words) |
 ## Hash Function
 |  |
