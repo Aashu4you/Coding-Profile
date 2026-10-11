@@ -98,6 +98,7 @@ Coding Problems from Leetcode and GFG
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aashu4you/Coding-Profile/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Aashu4you/Coding-Profile/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/Aashu4you/Coding-Profile/tree/master/2540-minimum-common-value) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Aashu4you/Coding-Profile/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aashu4you/Coding-Profile/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Aashu4you/Coding-Profile/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3024-type-of-triangle](https://github.com/Aashu4you/Coding-Profile/tree/master/3024-type-of-triangle) |
@@ -787,6 +788,7 @@ Coding Problems from Leetcode and GFG
 |  |
 | ------- |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Aashu4you/Coding-Profile/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Aashu4you/Coding-Profile/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aashu4you/Coding-Profile/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Aashu4you/Coding-Profile/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
