@@ -22,6 +22,7 @@ Coding Problems from Leetcode and GFG
 | [0078-subsets](https://github.com/Aashu4you/Coding-Profile/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aashu4you/Coding-Profile/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aashu4you/Coding-Profile/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Aashu4you/Coding-Profile/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Aashu4you/Coding-Profile/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0137-single-number-ii) |
@@ -258,6 +259,7 @@ Coding Problems from Leetcode and GFG
 | [0062-unique-paths](https://github.com/Aashu4you/Coding-Profile/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Aashu4you/Coding-Profile/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Aashu4you/Coding-Profile/tree/master/0115-distinct-subsequences) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Aashu4you/Coding-Profile/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Aashu4you/Coding-Profile/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Aashu4you/Coding-Profile/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/Aashu4you/Coding-Profile/tree/master/0338-counting-bits) |
