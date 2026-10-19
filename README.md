@@ -90,6 +90,7 @@ Coding Problems from Leetcode and GFG
 | [1929-concatenation-of-array](https://github.com/Aashu4you/Coding-Profile/tree/master/1929-concatenation-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Aashu4you/Coding-Profile/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2029-stone-game-ix](https://github.com/Aashu4you/Coding-Profile/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Aashu4you/Coding-Profile/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aashu4you/Coding-Profile/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/2109-adding-spaces-to-a-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Aashu4you/Coding-Profile/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -210,6 +211,7 @@ Coding Problems from Leetcode and GFG
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Aashu4you/Coding-Profile/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Aashu4you/Coding-Profile/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Aashu4you/Coding-Profile/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/Aashu4you/Coding-Profile/tree/master/2540-minimum-common-value) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aashu4you/Coding-Profile/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Aashu4you/Coding-Profile/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -236,6 +238,7 @@ Coding Problems from Leetcode and GFG
 | [0977-squares-of-a-sorted-array](https://github.com/Aashu4you/Coding-Profile/tree/master/0977-squares-of-a-sorted-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Aashu4you/Coding-Profile/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Aashu4you/Coding-Profile/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Aashu4you/Coding-Profile/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Aashu4you/Coding-Profile/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Aashu4you/Coding-Profile/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3024-type-of-triangle](https://github.com/Aashu4you/Coding-Profile/tree/master/3024-type-of-triangle) |
