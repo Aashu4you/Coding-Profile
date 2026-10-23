@@ -292,6 +292,7 @@ Coding Problems from Leetcode and GFG
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aashu4you/Coding-Profile/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Aashu4you/Coding-Profile/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/Aashu4you/Coding-Profile/tree/master/0227-basic-calculator-ii) |
+| [0394-decode-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Aashu4you/Coding-Profile/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Aashu4you/Coding-Profile/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aashu4you/Coding-Profile/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -502,6 +503,7 @@ Coding Problems from Leetcode and GFG
 | [0383-ransom-note](https://github.com/Aashu4you/Coding-Profile/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Aashu4you/Coding-Profile/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Aashu4you/Coding-Profile/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/Aashu4you/Coding-Profile/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0520-detect-capital](https://github.com/Aashu4you/Coding-Profile/tree/master/0520-detect-capital) |
@@ -646,6 +648,7 @@ Coding Problems from Leetcode and GFG
 | [0231-power-of-two](https://github.com/Aashu4you/Coding-Profile/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Aashu4you/Coding-Profile/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Aashu4you/Coding-Profile/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/Aashu4you/Coding-Profile/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Aashu4you/Coding-Profile/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aashu4you/Coding-Profile/tree/master/3483-unique-3-digit-even-numbers) |
 ## Breadth-First Search
